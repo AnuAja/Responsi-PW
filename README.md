@@ -8,9 +8,7 @@
 </p>
 
 <div>
-    <a href="https://responsianugrah.mybookbase.my.id/">
-        <h1>Ini linknya, tapi bukan domcloud soalnya ribet</h1>
-    </a>
+        <a>Ini [linknya](https://responsianugrah.mybookbase.my.id/), tapi bukan domcloud soalnya ribet</a>
 </div>
 
 ## About Laravel
