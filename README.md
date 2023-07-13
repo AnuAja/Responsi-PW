@@ -7,10 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-<div>
-        <a>Ini [linknya](https://responsianugrah.mybookbase.my.id/), tapi bukan domcloud soalnya ribet</a>
-</div>
-
+[Ini linknya tapi bukan domcloud soalnya ribet](https://responsianugrah.mybookbase.my.id).
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
